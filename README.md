@@ -2,9 +2,7 @@
 
 <p><b>Software Engineer</b> — 12+ years building production systems. Currently working on low-precision numerics and machine-learning infrastructure in C.</p>
 
----
-
-## Open-source contributions
+<h3>Open-source contributions</h3>
 
 Ten merged pull requests across four organisations. **Click a logo to open that organisation's list of my merged pull requests.**
 
@@ -43,24 +41,36 @@ Ten merged pull requests across four organisations. **Click a logo to open that 
 
 Mostly numerical correctness and performance work: premature overflow in Bessel functions, a wrong-signed fill in CERN's image library, a dropped socket timeout in flight software, a data race under free-threading.
 
----
-
-## mantissa
+<h3>mantissa</h3>
 
 [**mantissa**](https://github.com/tekinertekin/mantissa) — a low-precision numerics core for neural networks, written in C.
 
 It stores weights and activations in narrow formats (fp8, fp4, and a block-scaled variant) and runs dense and convolutional layers over them with hand-written NEON kernels. Every performance claim in the repository is backed by a paired randomised measurement against a same-binary control, and results that did not survive that test are documented as rejected rather than removed.
 
----
+<h3>Education</h3>
 
-## Education
+<table>
+  <tr>
+    <td width="120" align="center">
+      <a href="https://www.cs.hacettepe.edu.tr/"><img src="assets/hacettepe.png" width="44" alt="Hacettepe University"></a>
+    </td>
+    <td><b>PhD, Computer Engineering</b> — <a href="https://www.cs.hacettepe.edu.tr/">Hacettepe University</a>, 2021 – present<br><sub>Thesis in progress; paper under review.</sub></td>
+  </tr>
+  <tr>
+    <td width="120" align="center">
+      <a href="https://bil-grafik.hacettepe.edu.tr/"><img src="assets/hacettepe.png" width="44" alt="Hacettepe University"></a>
+    </td>
+    <td><b>MSc, Game Technologies and Computer Animation</b> — <a href="https://bil-grafik.hacettepe.edu.tr/">Hacettepe University</a>, 2021<br><sub><a href="https://github.com/tekinertekin/adaptive-voronoi-mapping">adaptive-voronoi-mapping</a>: adaptive Voronoi mapping for legible visualisation of very large graphs.</sub></td>
+  </tr>
+  <tr>
+    <td width="120" align="center">
+      <a href="https://ceng.metu.edu.tr/"><img src="assets/metu.png" width="96" alt="METU"></a>
+    </td>
+    <td><b>BSc, Computer Engineering</b> — <a href="https://ceng.metu.edu.tr/">Middle East Technical University</a>, 2014</td>
+  </tr>
+</table>
 
-- **PhD** — thesis in progress, paper under review.
-- **MSc** — [adaptive-voronoi-mapping](https://github.com/tekinertekin/adaptive-voronoi-mapping): adaptive Voronoi mapping for legible visualisation of very large graphs.
-
----
-
-## Work
+<h3>Work</h3>
 
 <a href="https://bumper.co"><img src="https://a.storyblok.com/f/321832/189x32/ca55d9d5c4/bumper-logo.png" height="26" alt="Bumper"></a>
 
@@ -70,3 +80,7 @@ Before that, national-scale public-sector systems in .NET — both still in prod
 
 - **KYK**, Turkey's student loans and housing agency — worked on a team that built 9 databases and 11 applications from scratch. Around **15 million users**.
 - **Turkish Employment Agency (İŞKUR)** — employment and public-benefit programme systems serving **8+ million users**.
+
+<h3>Other work</h3>
+
+- **Flight-controller firmware** — modified the C sources running on a Pixhawk Cube autopilot.
