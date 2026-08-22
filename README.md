@@ -64,7 +64,7 @@ It stores weights and activations in narrow formats (fp8, fp4, and a block-scale
   </tr>
   <tr>
     <td width="120" align="center">
-      <a href="https://ceng.metu.edu.tr/"><img src="assets/metu.png" width="96" alt="METU"></a>
+      <a href="https://ceng.metu.edu.tr/"><img src="assets/metu.png" width="44" alt="METU"></a>
     </td>
     <td><b>BSc, Computer Engineering</b> — <a href="https://ceng.metu.edu.tr/">Middle East Technical University</a>, 2014</td>
   </tr>
