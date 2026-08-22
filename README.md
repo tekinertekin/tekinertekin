@@ -72,7 +72,7 @@ It stores weights and activations in narrow formats (fp8, fp4, and a block-scale
 
 <h3>Work</h3>
 
-<a href="https://bumper.co"><img src="https://a.storyblok.com/f/321832/189x32/ca55d9d5c4/bumper-logo.png" height="26" alt="Bumper"></a>
+<a href="https://bumper.co"><img src="assets/bumper.png" height="24" alt="Bumper"></a>
 
 Software Engineer.
 
