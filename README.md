@@ -4,7 +4,7 @@
 
 <h3>Open-source contributions</h3>
 
-Ten merged pull requests across four organisations. **Click a logo to open that organisation's list of my merged pull requests.**
+Eleven merged pull requests across four organisations. **Click a logo to open that organisation's list of my merged pull requests.**
 
 <table>
   <tr>
@@ -20,7 +20,7 @@ Ten merged pull requests across four organisations. **Click a logo to open that 
         <img src="https://avatars.githubusercontent.com/u/6450093?s=100" width="56" alt="ROOT"><br>
         <b>ROOT</b>
       </a><br>
-      <sub>CERN &middot; 3 merged</sub>
+      <sub>CERN &middot; 4 merged</sub>
     </td>
     <td align="center" width="150">
       <a href="https://github.com/search?q=is%3Apr+author%3Atekinertekin+is%3Amerged+org%3Ascipy&type=pullrequests">
@@ -39,7 +39,7 @@ Ten merged pull requests across four organisations. **Click a logo to open that 
   </tr>
 </table>
 
-Mostly numerical correctness and performance work: premature overflow in Bessel functions, a wrong-signed fill in CERN's image library, a dropped socket timeout in flight software, a data race under free-threading.
+Mostly numerical correctness and performance work: premature overflow in Bessel functions, a flood fill that hung or leaked past its outline depending on the brush alpha, a socket timeout that was configured but never applied, generation settings an inference server accepted but never reported back.
 
 <h3>mantissa</h3>
 
