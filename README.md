@@ -60,7 +60,7 @@ It stores weights and activations in narrow formats (fp8, fp4, and a block-scale
     <td width="120" align="center">
       <a href="https://bil-grafik.hacettepe.edu.tr/"><img src="assets/hacettepe.png" width="44" alt="Hacettepe University"></a>
     </td>
-    <td><b>MSc, Game Technologies and Computer Animation</b> — <a href="https://bil-grafik.hacettepe.edu.tr/">Hacettepe University</a>, 2021<br><sub><a href="https://github.com/tekinertekin/adaptive-voronoi-mapping">adaptive-voronoi-mapping</a>: adaptive Voronoi mapping for legible visualisation of very large graphs.</sub></td>
+    <td><b>MSc, Game Technologies and Computer Animation</b> — <a href="https://bil-grafik.hacettepe.edu.tr/">Hacettepe University</a>, 2021<br><sub><a href="https://github.com/tekinertekin/adaptive-voronoi-mapping">adaptive-voronoi-mapping</a>: adaptive Voronoi mapping for legible visualisation of very large labelled spatial point data.</sub></td>
   </tr>
   <tr>
     <td width="120" align="center">
@@ -69,6 +69,11 @@ It stores weights and activations in narrow formats (fp8, fp4, and a block-scale
     <td><b>BSc, Computer Engineering</b> — <a href="https://ceng.metu.edu.tr/">Middle East Technical University</a>, 2014</td>
   </tr>
 </table>
+
+<h3>Publications</h3>
+
+- M. T. Ertekin and B. Genç, **"User Oriented Visualization of Very Large Spatial Data with Adaptive Voronoi Mapping (AVM)"**, in *Engineering Cyber-Physical Systems and Critical Infrastructures*, Springer, 2023, pp. 515–536. [doi:10.1007/978-3-031-31956-3_45](https://doi.org/10.1007/978-3-031-31956-3_45)
+- M. T. Ertekin, **"Çok Büyük Konumsal Verinin Kullanıcı Odaklı Görselleştirilmesi"**, MSc thesis, Institute of Informatics, Hacettepe University, 2020. In Turkish, [full text](https://openaccess.hacettepe.edu.tr/items/022b3198-c0ee-471c-ad53-7346c9ffef74)
 
 <h3>Work</h3>
 
