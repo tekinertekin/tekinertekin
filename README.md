@@ -54,7 +54,7 @@ It stores weights and activations in narrow formats (fp8, fp4, and a block-scale
     <td width="120" align="center">
       <a href="https://www.cs.hacettepe.edu.tr/"><img src="assets/hacettepe.png" width="44" alt="Hacettepe University"></a>
     </td>
-    <td><b>PhD, Computer Engineering</b> — <a href="https://www.cs.hacettepe.edu.tr/">Hacettepe University</a>, 2021 – present<br><sub>Thesis in progress; paper under review.</sub></td>
+    <td><b>PhD, Computer Engineering</b> — <a href="https://www.cs.hacettepe.edu.tr/">Hacettepe University</a>, 2021 – present<br><sub>Thesis in progress. First paper published in <i>Applied Sciences</i>, 2026 — <a href="https://doi.org/10.3390/app16178542">Concept Tree Learner (CTL)</a>.</sub></td>
   </tr>
   <tr>
     <td width="120" align="center">
@@ -72,6 +72,7 @@ It stores weights and activations in narrow formats (fp8, fp4, and a block-scale
 
 <h3>Publications</h3>
 
+- M. T. Ertekin and B. Genç, **"Concept Tree Learner (CTL): An Incremental and Interpretable Symbolic Framework for Binary String Rule Induction"**, *Applied Sciences*, vol. 16, no. 17, art. 8542, 2026. Open access, [doi:10.3390/app16178542](https://doi.org/10.3390/app16178542)
 - M. T. Ertekin and B. Genç, **"User Oriented Visualization of Very Large Spatial Data with Adaptive Voronoi Mapping (AVM)"**, in *Engineering Cyber-Physical Systems and Critical Infrastructures*, Springer, 2023, pp. 515–536. [doi:10.1007/978-3-031-31956-3_45](https://doi.org/10.1007/978-3-031-31956-3_45)
 - M. T. Ertekin, **"Çok Büyük Konumsal Verinin Kullanıcı Odaklı Görselleştirilmesi"**, MSc thesis, Institute of Informatics, Hacettepe University, 2020. In Turkish, [full text](https://openaccess.hacettepe.edu.tr/items/022b3198-c0ee-471c-ad53-7346c9ffef74)
 
