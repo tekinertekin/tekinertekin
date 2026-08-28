@@ -4,7 +4,7 @@
 
 <h3>Open-source contributions</h3>
 
-Eleven merged pull requests across four organisations. **Click a logo to open that organisation's list of my merged pull requests.**
+Twelve merged pull requests across four organisations. **Click a logo to open that organisation's list of my merged pull requests.**
 
 <table>
   <tr>
@@ -34,7 +34,7 @@ Eleven merged pull requests across four organisations. **Click a logo to open th
         <img src="https://avatars.githubusercontent.com/u/134263123?s=100" width="56" alt="llama.cpp"><br>
         <b>llama.cpp</b>
       </a><br>
-      <sub>ggml-org &middot; 1 merged</sub>
+      <sub>ggml-org &middot; 2 merged</sub>
     </td>
   </tr>
 </table>
