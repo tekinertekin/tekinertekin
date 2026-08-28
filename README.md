@@ -39,7 +39,7 @@ Twelve merged pull requests across four organisations. **Click a logo to open th
   </tr>
 </table>
 
-Mostly numerical correctness and performance work: premature overflow in Bessel functions, a flood fill that hung or leaked past its outline depending on the brush alpha, a socket timeout that was configured but never applied, generation settings an inference server accepted but never reported back.
+Mostly numerical correctness and performance work: premature overflow in Bessel functions, a flood fill that hung or leaked past its outline depending on the brush alpha, a socket timeout that was configured but never applied, generation settings an inference server accepted but never reported back, and a transposed convolution that silently computed only the first batch.
 
 <h3>mantissa</h3>
 
