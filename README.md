@@ -4,7 +4,7 @@
 
 <h3>Open-source contributions</h3>
 
-Twelve merged pull requests across four organisations. **Click a logo to open that organisation's list of my merged pull requests.**
+Thirteen merged pull requests across four organisations. **Click a logo to open that organisation's list of my merged pull requests.**
 
 <table>
   <tr>
@@ -20,7 +20,7 @@ Twelve merged pull requests across four organisations. **Click a logo to open th
         <img src="https://avatars.githubusercontent.com/u/6450093?s=100" width="56" alt="ROOT"><br>
         <b>ROOT</b>
       </a><br>
-      <sub>CERN &middot; 4 merged</sub>
+      <sub>CERN &middot; 5 merged</sub>
     </td>
     <td align="center" width="150">
       <a href="https://github.com/search?q=is%3Apr+author%3Atekinertekin+is%3Amerged+org%3Ascipy&type=pullrequests">
