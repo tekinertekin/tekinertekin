@@ -4,7 +4,7 @@
 
 <h3>Open-source contributions</h3>
 
-Thirteen merged pull requests across four organisations. **Click a logo to open that organisation's list of my merged pull requests.**
+**14+** merged pull requests across four organisations. **Click a logo to open that organisation's list of my merged pull requests.**
 
 <table>
   <tr>
@@ -27,7 +27,7 @@ Thirteen merged pull requests across four organisations. **Click a logo to open 
         <img src="https://avatars.githubusercontent.com/u/288277?s=100" width="56" alt="SciPy"><br>
         <b>SciPy</b>
       </a><br>
-      <sub>scipy &amp; xsf &middot; 3 merged</sub>
+      <sub>scipy &amp; xsf &middot; 4 merged</sub>
     </td>
     <td align="center" width="150">
       <a href="https://github.com/search?q=is%3Apr+author%3Atekinertekin+is%3Amerged+org%3Aggml-org&type=pullrequests">
